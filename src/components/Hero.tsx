@@ -35,7 +35,7 @@ const Hero = () => {
         <div className="mb-8">
           <div className="w-60 h-60 mx-auto mb-8 rounded-full bg-gradient-to-br from-blue-400 to-blue-600 flex items-center justify-center text-6xl font-bold text-white shadow-2xl">
             <img
-              src="public/WhatsApp Image 2025-07-03 at 00.39.20.jpeg"
+              src="public/profile_pic.jpeg"
               alt="Vijayakumar Pattar"
               className="w-full h-full rounded-full object-fill shadow-xl border-4 border-white"
             />
